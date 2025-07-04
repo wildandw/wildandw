@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # jalan setiap hari jam 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -12,14 +12,12 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Create output directory
-        run: mkdir -p dist
-
       - name: Generate GitHub snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: wildandw
-          outputs: dist
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
