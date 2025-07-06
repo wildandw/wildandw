@@ -41,13 +41,9 @@
 
 ---
 
-### 🐍 Snake Activity
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/WildanDW/WildanDW/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
-🔗 Generate your own here: [https://platane.github.io/snk](https://platane.github.io/snk)
 
 ---
 
