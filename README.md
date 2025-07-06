@@ -55,9 +55,10 @@
 <!----
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-- 📧 Email: youremail@example.com
-
 --->
+- 📧 Email: wildanwildan211@gmail.com
+
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
