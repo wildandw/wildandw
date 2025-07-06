@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Wildan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Explore+my+projects+below!;Happy+coding!+💻" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub!;Explore+my+projects+below!;Happy+coding!+💻&center=true&width=435&font=Fira+Code&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
