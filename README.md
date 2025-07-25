@@ -9,10 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm a student passionate about software development
-- 🧠 Interested in Web Development, IoT, AI, and Laravel
 - 🛠️ Currently building projects using **React**, **Node.js**, and **Laravel**
-- 🌱 Learning something new every day
-- 💬 Ask me about: `PHP`, `JavaScript`, `Laravel`, `React`, `MySQL`
 
 ---
 
@@ -29,7 +26,7 @@
 </p>
 
 ---
-
+<!----
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -40,7 +37,7 @@
 </p>
 
 ---
-
+--->
 <p align="center">
   <img src="https://raw.githubusercontent.com/WildanDW/WildanDW/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
